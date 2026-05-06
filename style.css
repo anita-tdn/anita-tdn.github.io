@@ -1,33 +1,15 @@
-<<<<<<< HEAD
-h1{
-font-size: 30px;
-text-align: center;
-color: #c22621
+h1 {
+  font-size: 30px;
+  text-align: center;
+  color: #c22621;
 }
 
-p{
-font-size: 20px;
-text-align: left;
-font-family: Helvetica, sans-serif;
-}
-
-body {
-background-color: #ffffff;
-}
-=======
-h1{
-font-size: 30px;
-text-align: center;
-color: #c22621
-}
-
-p{
-font-size: 20px;
-text-align: left;
-font-family: Helvetica, sans-serif;
+p {
+  font-size: 20px;
+  text-align: left;
+  font-family: Helvetica, sans-serif;
 }
 
 body {
-background-color: #ffffff;
+  background-color: #ffffff;
 }
->>>>>>> bd269b68e577f2ead0a264fbecfe80fe54f0d92b
